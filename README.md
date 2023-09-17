@@ -11,7 +11,7 @@
 > _주도적으로 문제를 해결하기 위해 고민하고, 노력하겠습니다._
 
 **관심분야:** ```Computer Vision``` / ```ML & DL``` / ```App 개발``` 등 (코딩과 AI가 활용되는 모든 것들)
-<br/>
+<br/>  
 
 
 ## 🏛 Profile
@@ -26,7 +26,6 @@
 > - Email: ksofg@snu.ac.kr
 
 <br/>  
-
 
 ## 🌠 Skills
 
