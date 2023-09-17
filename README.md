@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**holinessnine/holinessnine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 신성구(Holiness Nine)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏛 Profile
+
+- 문명고등학교 졸업 &nbsp;&nbsp;&nbsp; _2013.03~2016.02_
+- 성균관대학교 유학동양학 & 데이터사이언스 융합전공 졸업 &nbsp;&nbsp;&nbsp; _2016.03~2022.08_
+   - 유학대학 학생회
+   - 인공지능학회 TNT (Train N Test)
+- 서울대학교 데이터사이언스대학원 재학 중 &nbsp;&nbsp;&nbsp; _2022.09~_
+   - AIoT 연구실에서 활동 중(링크: https://aiot.snu.ac.kr/research)
+- Email: ksofg@snu.ac.kr
+<br/>
+
+
+## 🌠 Skills
+
+| Skill | Score | Desciption |
+| ------ | ------ | ----- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)| 중 | 주사용 언어 |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)| 중 | 활용 가능 |
+| ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white) | 중 | 활용 가능 |
+| ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | 중 | 활용 가능 |
+| ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | 중 | 활용 가능 |
+| ![Tableau](https://img.shields.io/badge/Tableau-276DC3?style=flat-square&logo=Tableau&logoColor=white) | 중 | 활용 가능 |
+| ![JAVA](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) | 하 | 개인 프로젝트 경험 |
+| ![ReactJS](https://img.shields.io/badge/Django-4479A1?style=flat-square&logo=Django&logoColor=white) | 하 | 팀 프로젝트 경험 |
+<br/>
+
+
+ 
