@@ -2,6 +2,8 @@
 
 ## 신성구(Holiness Nine)
 
+
+
 ## 🎉 Welcome 🎉
 **Deep, Wide, and Ascending:**
 > _깊게 연구하고 다양한 경험을 하며 성장하고 싶습니다._  
@@ -10,6 +12,7 @@
 
 **관심분야:** ```Computer Vision``` / ```ML & DL``` / ```App 개발``` 등 (코딩과 AI가 활용되는 모든 것들)
 <br/>  
+
 
 
 ## 🏛 Profile
