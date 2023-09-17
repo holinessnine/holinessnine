@@ -14,11 +14,11 @@
 
 > - 문명고등학교 졸업 &nbsp;&nbsp;&nbsp; _[2013.03~2016.02]_
 > - 성균관대학교 유학동양학 & 데이터사이언스 융합전공 졸업 &nbsp;&nbsp;&nbsp; _[2016.03~2022.08]_
->>   - 유학대학 학생회
->>   - 인공지능학회 TNT (Train N Test)
+>   - 유학대학 학생회
+>   - 인공지능학회 TNT (Train N Test)
 > - 육군 병장 만기 전역 &nbsp;&nbsp;&nbsp; _[2018.08~2020.03]_
 > - 서울대학교 데이터사이언스대학원 재학 중 &nbsp;&nbsp;&nbsp; _[2022.09~]_
->>   - AIoT 연구실에서 활동 중(링크: https://aiot.snu.ac.kr/research)
+>   - AIoT 연구실에서 활동 중(링크: https://aiot.snu.ac.kr/research)
 > - Email: ksofg@snu.ac.kr
 <br/>
 
