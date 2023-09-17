@@ -8,6 +8,7 @@
 - 성균관대학교 유학동양학 & 데이터사이언스 융합전공 졸업 &nbsp;&nbsp;&nbsp; _2016.03~2022.08_
    - 유학대학 학생회
    - 인공지능학회 TNT (Train N Test)
+- 육군 병장 만기 전역 &nbsp;&nbsp;&nbsp; _2018.08~2020.03_
 - 서울대학교 데이터사이언스대학원 재학 중 &nbsp;&nbsp;&nbsp; _2022.09~_
    - AIoT 연구실에서 활동 중(링크: https://aiot.snu.ac.kr/research)
 - Email: ksofg@snu.ac.kr
@@ -28,5 +29,5 @@
 | ![ReactJS](https://img.shields.io/badge/Django-4479A1?style=flat-square&logo=Django&logoColor=white) | 하 | 팀 프로젝트 경험 |
 <br/>
 
-
+## 📝 My CV
  
