@@ -43,4 +43,4 @@
 ## 📝 My CV
 > 저에 대해 더 알고 싶으시다면 아래 링크를 눌러주세요.
 - [CV 보러가기](./CV.pdf)
-- [프로그래머스 프로필 URL](./https://career.programmers.co.kr/pr/seg3981_9555)
+- [프로그래머스 프로필 URL](https://career.programmers.co.kr/pr/seg3981_9555)
