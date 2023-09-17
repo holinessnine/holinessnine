@@ -4,22 +4,22 @@
 
 ## 🎉 Welcome 🎉
 **Deep, Wide, and Ascending:**
-> 깊게 연구하고 다양한 경험을 하며 성장하고 싶습니다.  
-> Data Science, Programming으로 현실의 난제를 풀어나가고 싶습니다.  
-> 주도적으로 문제를 해결하기 위해 고민하고, 노력하겠습니다.
+> _깊게 연구하고 다양한 경험을 하며 성장하고 싶습니다._  
+> _Data Science, Programming으로 현실의 난제를 풀어나가고 싶습니다._  
+> _주도적으로 문제를 해결하기 위해 고민하고, 노력하겠습니다._
 
 **관심분야:** ```Computer Vision``` / ```ML & DL``` / ```App 개발``` 등 (코딩과 AI가 활용되는 모든 것들)
 
 ## 🏛 Profile
 
-- 문명고등학교 졸업 &nbsp;&nbsp;&nbsp; _2013.03~2016.02_
-- 성균관대학교 유학동양학 & 데이터사이언스 융합전공 졸업 &nbsp;&nbsp;&nbsp; _2016.03~2022.08_
+> - 문명고등학교 졸업 &nbsp;&nbsp;&nbsp; _2013.03~2016.02_
+> - 성균관대학교 유학동양학 & 데이터사이언스 융합전공 졸업 &nbsp;&nbsp;&nbsp; _2016.03~2022.08_
    - 유학대학 학생회
    - 인공지능학회 TNT (Train N Test)
-- 육군 병장 만기 전역 &nbsp;&nbsp;&nbsp; _2018.08~2020.03_
-- 서울대학교 데이터사이언스대학원 재학 중 &nbsp;&nbsp;&nbsp; _2022.09~_
-   - AIoT 연구실에서 활동 중(링크: https://aiot.snu.ac.kr/research)
-- Email: ksofg@snu.ac.kr
+> - 육군 병장 만기 전역 &nbsp;&nbsp;&nbsp; _2018.08~2020.03_
+> - 서울대학교 데이터사이언스대학원 재학 중 &nbsp;&nbsp;&nbsp; _2022.09~_
+>   - AIoT 연구실에서 활동 중(링크: https://aiot.snu.ac.kr/research)
+> - Email: ksofg@snu.ac.kr
 <br/>
 
 
@@ -38,5 +38,5 @@
 <br/>
 
 ## 📝 My CV
-저에 대해 더 알고 싶으시다면 아래 링크를 눌러주세요.
+> 저에 대해 더 알고 싶으시다면 아래 링크를 눌러주세요.
 - [CV 보러가기](./CV.pdf)
