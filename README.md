@@ -2,10 +2,13 @@
 
 ## 신성구(Holiness Nine)
 
-
-![header](https://Welcome.vercel.app/api?type=wave&color=auto&height=200&section=header&text=capsule%20render&fontSize=90)
 ## 🎉 Welcome 🎉
+**Deep, Wide, and Ascending:**
+- 깊게 연구하고 다양한 경험을 하며 성장하고 싶습니다.
+- Data Science, Programming으로 현실의 난제를 풀어나가고 싶습니다.
+- 주도적으로 문제를 해결하기 위해 고민하고, 노력하겠습니다.
 
+**관심분야:** Computer Vision / ML & DL / App 개발 등 코딩과 AI가 활용되는 모든 것들...
 
 ## 🏛 Profile
 
