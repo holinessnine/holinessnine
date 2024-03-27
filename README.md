@@ -20,7 +20,7 @@
 >   - 인공지능학회 TNT (Train N Test)
 > - 육군 병장 만기 전역 &nbsp;&nbsp;&nbsp; _[2018.08~2020.03]_
 > - 서울대학교 데이터사이언스대학원 재학 중 &nbsp;&nbsp;&nbsp; _[2022.09~]_
->   - AIoT 연구실에서 활동 중 [연구실 바로가기](https://aiot.snu.ac.kr/research)
+>   - ViBA 연구실에서 활동 중 [연구실 바로가기]
 > - Email: ksofg@snu.ac.kr
 
 <br/>  
