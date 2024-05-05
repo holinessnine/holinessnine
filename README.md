@@ -9,7 +9,7 @@
 > _Data Science, Programming으로 현실의 난제를 풀어나가고 싶습니다._  
 > _주도적으로 문제를 해결하기 위해 고민하고, 노력하겠습니다._
 
-**관심분야:** ```Computer Vision``` / ```ML & DL``` / ```App 개발``` 등 (코딩과 AI가 활용되는 모든 것들)  
+**관심분야:** ```ML & DL``` / ```Domain-Research(Sports)``` / ```App 개발``` 등 (코딩과 AI가 활용되는 모든 것들)  
 <br/>
 
 ## 🏛 Profile
@@ -35,8 +35,8 @@
 | ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | 중 | 활용 가능 |
 | ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | 중 | 활용 가능 |
 | ![Tableau](https://img.shields.io/badge/Tableau-276DC3?style=flat-square&logo=Tableau&logoColor=white) | 중 | 활용 가능 |
-| ![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) | 하 | 개인 프로젝트 경험 |
-| ![React](https://img.shields.io/badge/React-4479A1?style=flat-square&logo=React&logoColor=white) | 하 | 팀 프로젝트 경험 |
+| ![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) | 하 | 개인 프로젝트 & 산학 과제 경험 |
+| ![React](https://img.shields.io/badge/React-4479A1?style=flat-square&logo=React&logoColor=white) | 중 | 팀 프로젝트 & 산학 과제 경험 |
 <br/>
 
 ## 📝 My CV
