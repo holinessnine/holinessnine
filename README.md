@@ -35,7 +35,7 @@
 | ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | 중 | 활용 가능 |
 | ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | 중 | 활용 가능 |
 | ![Tableau](https://img.shields.io/badge/Tableau-276DC3?style=flat-square&logo=Tableau&logoColor=white) | 중 | 활용 가능 |
-| ![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) | 하 | 개인 프로젝트 & 산학 과제 경험 |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-007396?style=flat-square&logo=JavaScript&logoColor=white) | 중 | 개인 프로젝트 & 산학 과제 경험 |
 | ![React](https://img.shields.io/badge/React-4479A1?style=flat-square&logo=React&logoColor=white) | 중 | 팀 프로젝트 & 산학 과제 경험 |
 <br/>
 
